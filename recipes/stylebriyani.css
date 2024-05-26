@@ -1,0 +1,15 @@
+.main_title{
+    background-color: lightseagreen;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px auto;
+
+}
+
+.image{
+    border-radius: 20px;
+    background-color: antiquewhite;
+    margin: 20px auto;
+    padding: 20px;
+}
